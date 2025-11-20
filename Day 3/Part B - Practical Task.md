@@ -3,5 +3,5 @@
 
 **Task:** Update the Gemini 3.0 model using Gemini CLI.
 
-![Gemini CLI Screenshot](Part-B.png)
+![Gemini CLI Screenshot](gemini.png)
 
