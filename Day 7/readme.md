@@ -115,11 +115,11 @@ Because reusable intelligence compounds — making the **next feature faster, mo
 
 # Quick Workflow Overview
 
-/constitution → sets rules
-/specify → write feature description
-/plan → convert description into technical design
-/tasks → convert design into small steps
-/implement → generate code step by step
+- /constitution → sets rules
+- /specify → write feature description
+- /plan → convert description into technical design
+- /tasks → convert design into small steps
+- /implement → generate code step by step
 
 
 
