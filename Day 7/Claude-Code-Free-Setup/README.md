@@ -76,7 +76,7 @@ Paste the following JSON configuration exactly as shown:
     {
       "name": "gemini",
       "api_base_url": "https://generativelanguage.googleapis.com/v1beta/models/",
-      "api_key": "$GOOGLE_API_KEY",
+      "api_key": "$GOOGLE_API_KEY", //Gemini API KEY
       "models": [
         "gemini-2.5-flash",
         "gemini-2.0-flash"
